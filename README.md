@@ -2,7 +2,7 @@
 - 👀 I’m interested in basically algorithms, data structures and machine learning
 - 🌱 I’ve completed my masters in CS from Banaras Hindu University
 - 💞️ I’m looking to collaborate on any complex ML projects
-- 📫 How to reach me : Whatsapp at 9064075143
+- 📫 How to reach me : parthiv.rivoo@gmail.com
 
 <!---
 parthivchat99/parthivchat99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
